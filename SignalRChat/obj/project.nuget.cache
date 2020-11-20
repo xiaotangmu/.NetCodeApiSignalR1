@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "N7qehQDKwP9H4uIWzsiu3KJIxTV0ScV8LknuqzVBOoHZYw3WgrH5M9h5nptP6UTQOPcGkCJwyi5BOH4HS0qmwA==",
+  "success": true,
+  "projectFilePath": "F:\\vsDeveloper\\.NetCodeApiSignalR1\\SignalRChat\\SignalRChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
